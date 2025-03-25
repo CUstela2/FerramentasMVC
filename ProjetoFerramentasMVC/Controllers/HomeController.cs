@@ -13,10 +13,10 @@ namespace ProjetoFerramentasMVC.Controllers
             _logger = logger;
         }
 
-        // Redireciona para a página de login
+        
         public IActionResult Index()
         {
-            return RedirectToAction("Login", "Account"); // Redireciona para a Action Login do AccountController
+            return RedirectToAction("Login", "Account");
         }
 
         public IActionResult Privacy()

@@ -26,7 +26,7 @@ function resetPassword(event) {
             message.textContent = "E-mail de redefinição enviado! Verifique sua caixa de entrada.";
             message.style.color = "green";
             message.style.display = "block";
-        window.location.href = "login.cshtml";
+        window.location.href = "login";
 
         })
         .catch((error) => {

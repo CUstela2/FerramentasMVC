@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\426115624\\Documents\\projetomvc\\ProjetoFerramentasMVC\\ProjetoFerramentasMVC.csproj": {}
+    "C:\\Users\\384695624\\Documents\\MVC\\ProjetoFerramentasMVC\\ProjetoFerramentasMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\426115624\\Documents\\projetomvc\\ProjetoFerramentasMVC\\ProjetoFerramentasMVC.csproj": {
+    "C:\\Users\\384695624\\Documents\\MVC\\ProjetoFerramentasMVC\\ProjetoFerramentasMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\426115624\\Documents\\projetomvc\\ProjetoFerramentasMVC\\ProjetoFerramentasMVC.csproj",
+        "projectUniqueName": "C:\\Users\\384695624\\Documents\\MVC\\ProjetoFerramentasMVC\\ProjetoFerramentasMVC.csproj",
         "projectName": "ProjetoFerramentasMVC",
-        "projectPath": "C:\\Users\\426115624\\Documents\\projetomvc\\ProjetoFerramentasMVC\\ProjetoFerramentasMVC.csproj",
-        "packagesPath": "C:\\Users\\426115624\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\426115624\\Documents\\projetomvc\\ProjetoFerramentasMVC\\obj\\",
+        "projectPath": "C:\\Users\\384695624\\Documents\\MVC\\ProjetoFerramentasMVC\\ProjetoFerramentasMVC.csproj",
+        "packagesPath": "C:\\Users\\384695624\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\384695624\\Documents\\MVC\\ProjetoFerramentasMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\426115624\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\384695624\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
